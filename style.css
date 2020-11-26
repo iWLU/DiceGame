@@ -1,0 +1,22 @@
+body {
+  background-color: #292C38;
+  color: #7CA6B1;
+}
+
+h1 {
+  margin: 30px;
+  font-size: 5rem;
+}
+
+p {
+  font-size: 2rem;
+}
+.container {
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 5%;
+}
